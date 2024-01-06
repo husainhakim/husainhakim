@@ -1,7 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Jeevan-04.Jeevan-04" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=husainhakim.husainhakim" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+I'm+Husain+Hakim!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+profile;I'm+Husain+Hakim!;" />
 </h1>
 
 <h3 align="center">Passionate computer science student and i also love to play football ⚽️</h3>
