@@ -10,13 +10,17 @@
 
 <div align="center">
  
- 🧑🏻‍💻 I am a **first year Btech student** at **ITM Skills University**
+     
+ **I Live in Mumbai,Bharat🇮🇳**
+ 
+ 🧑🏻‍💻 I am a **first year Btech student** at **ITM Skills University** in Navi Mumbai
  
  🚀 Coding enthusiast and a problem solver
 
 🌱 I’m currently learning **Python**.
 
 ⚡ I am also interested in **Full Stack development**, **Animation**, **AI**.
+
 
  </div>
  
