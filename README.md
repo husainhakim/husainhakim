@@ -19,8 +19,8 @@
 
 
 
-<div align="center">
-    <div align="center">
+<div align="left">
+    <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
