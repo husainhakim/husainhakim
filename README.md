@@ -17,6 +17,8 @@
     <p><font color="blue">⚡ Passionate about Animation and AI</font></p>
 </div>
 
+
+
 <div align="center">
     <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -43,45 +45,43 @@
     <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
+<div align="left">
+  <h2>Skills & Languages:</h2>
 
-  <h2>My Tech Stack</h2>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,c,cpp,py,vscode&theme=light" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Scratch.logo.S.png" width="50" height="50">
-    </a>
-  </p>
+<h4>IDEs used by me:</h4>
+<p>
+    <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
+    <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
+</p>
 </div>
-
-<div align="center">
+</p>
+<div align="left">
+  <h4>Languages used by me:</h4>
+      <img src="https://skillicons.dev/icons?i=c,cpp,py&theme=dark" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Scratch.logo.S.png" width="50" height="50">
+  
+<h4>Tools and Technologies:</h4>
+<p>
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
+    <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
-
-
-<div align="center">
+<div align="left">
   <h2>My Contributions</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Jeevan-04/Jeevan-04/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
-
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
 
-<div align="center">
-  <h2>Skills & Languages</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=husainhakim&layout=compact" />
-</div>
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-
-<div align="center">
-  <h2>Recent Activity</h2>
+<div align="left">
+  <h2>Recent Activity:</h2>
   <img src="https://github-readme-stats.vercel.app/api/?username=husainhakim&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=stars,issues" />
 </div>
 
@@ -93,7 +93,7 @@
 
 
 <div align="center">
-  <h2>GitHub Stats</h2>
+  <h2>GitHub Stats:</h2>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=husainhakim&theme=transparent" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=husainhakim&theme=solarized" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=husainhakim&theme=transparent" />
