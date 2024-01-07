@@ -1,18 +1,25 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+profile;+I'm+Husain+Hakim!;" />
-</h1>
 
-<h3 align="center">Enthusiastic Computer Science Student | Code Lover | Football Enthusiast</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+profile;+I'm+Husain+Hakim!" />
+
+
+<h3 align="center">
+    <font color="blue">Enthusiastic Computer Science Student | Code Lover | Football Enthusiast</font>
+</h3>
 
 <div align="center">
-  <p>👨‍💻 First-year B.Tech student at ITM Skills University</p>
-  <p>🚀 Coding enthusiast exploring the world of programming</p>
-  <p>🌱 Currently diving deep into Python</p>
-  <p>⚡ Passionate about Animation, XR, and AI</p>
+    <p><font color="blue">👨‍💻 First-year B.Tech student at ITM Skills University</font></p>
+    <p><font color="blue">🚀 Coding enthusiast exploring the world of programming</font></p>
+    <p><font color="blue">🌱 Currently diving deep into Python</font></p>
+    <p><font color="blue">⚡ Passionate about Animation, XR, and AI</font></p>
 </div>
 
 <div align="center">
-  <h2>Get in Touch</h2>
+    <div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+   <h2>Get in Touch</h2>
   <p>
     <a href="https://www.instagram.com/sparshva_533/" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="instagram logo"  />
@@ -30,6 +37,10 @@
 </div>
 
 <div align="center">
+    <div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
   <h2>My Tech Stack</h2>
   <p align="center">
     <a href="https://skillicons.dev">
@@ -39,7 +50,10 @@
   </p>
 </div>
 
-<hr/>
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
 
 <div align="center">
   <h2>My Contributions</h2>
@@ -49,21 +63,31 @@
   <br/><br/><br/>
 </div>
 
-<hr/>
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
 
 <div align="center">
   <h2>Skills & Languages</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=husainhakim&layout=compact" />
 </div>
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
-<hr/>
 
 <div align="center">
   <h2>Recent Activity</h2>
   <img src="https://github-readme-stats.vercel.app/api/?username=husainhakim&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=stars,issues" />
 </div>
 
-<hr/>
+
+
+
+
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 <div align="center">
   <h2>GitHub Stats</h2>
@@ -73,3 +97,8 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=husainhakim&theme=transparent" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=husainhakim&theme=solarized&utcOffset=5.3" />
 </div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
