@@ -9,6 +9,8 @@
 </h3>
 
 <div align="center">
+    <p><font color="blue">👨‍💻 I live in Mumbai,Bharat🇮🇳</font></p>
+    <p><font color="blue">🧑🏻‍🎓 Student Ambassador at Lets Upgrade</font></p>
     <p><font color="blue">👨‍💻 First-year B.Tech student at ITM Skills University</font></p>
     <p><font color="blue">🚀 Coding enthusiast exploring the world of programming</font></p>
     <p><font color="blue">🌱 Currently diving deep into Python</font></p>
