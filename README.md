@@ -61,9 +61,13 @@
       <img src="https://skillicons.dev/icons?i=c,cpp,py&theme=dark" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Scratch.logo.S.png" width="50" height="50">
   
-<h4>Tools and Technologies:</h4>
+<h4>Version Control:</h4>
 <p>
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+    <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+</p>
+<h4>No Code:</h4>
+<p>
+ <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50"> 
 </p>
     <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -84,10 +88,6 @@
   <h2>Recent Activity:</h2>
   <img src="https://github-readme-stats.vercel.app/api/?username=husainhakim&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=stars,issues" />
 </div>
-
-
-
-
 
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
