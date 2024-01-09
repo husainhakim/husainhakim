@@ -58,7 +58,9 @@
       <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
     </p>
     <h4>Languages:</h4>
-    <img src="https://skillicons.dev/icons?i=c,cpp,py&theme=dark" />
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="60" height="60" />
+    <img src="https://skillicons.dev/icons?i=cpp,py&theme=dark" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Scratch.logo.S.png" width="50" height="50">
     <h4>Version Control:</h4>
     <p>
