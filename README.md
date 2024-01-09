@@ -4,13 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+profile;+I'm+Husain+Hakim!" />
 
 
-<h3 align="center">
-    <font color="blue">Enthusiastic Computer Science Student | Code Lover | Football Enthusiast</font>
+<h3 align="left">
+    <font color="blue">About me:</font>
 </h3>
 
-<div align="center">
+<div align="left">
+    <p><font color="blue">Enthusiastic Computer Science Student | Code Lover | Football Enthusiast</font></p>
+    <img align="right" src="https://media.giphy.com/media/1CRLn4g4MiIyA/giphy.gif" height="250" />
     <p><font color="blue">👨‍💻 I live in Mumbai,Bharat🇮🇳</font></p>
-    <p><font color="blue">🧑🏻‍🎓 Student Ambassador at Lets Upgrade</font></p>
+    <p><font color="blue">🧑🏻‍🎓 Student Ambassador at Let's Upgrade</font></p>
     <p><font color="blue">👨‍💻 First-year B.Tech student at ITM Skills University</font></p>
     <p><font color="blue">🚀 Coding enthusiast exploring the world of programming</font></p>
     <p><font color="blue">🌱 Currently diving deep into Python</font></p>
