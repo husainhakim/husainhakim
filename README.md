@@ -26,7 +26,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-   <h2>Get in Touch</h2>
+   <h2>Get in Touch:</h2>
   <p>
     <a href="https://www.instagram.com/sparshva_533/" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="instagram logo"  />
@@ -96,7 +96,7 @@
 </div>
 <div align="left">
     
-  <h2>My Contributions</h2>
+  <h2>My Contributions:</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Jeevan-04/Jeevan-04/output/github-contribution-grid-snake.svg" />
   
@@ -106,7 +106,17 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
+<h2>These are the projects made by me:</h2>
 
+<details>
+  <summary>Stocktrack Pro</summary>
+  <p>Stocktrack Pro is an inventory management app that I developed. An efficient inventory management app streamlines stock control, tracking, and organization effortlessly. Simplifying operations, it optimizes inventory levels, enhances accuracy, and boosts productivity. With intuitive interfaces and real-time updates, it ensures seamless inventory supervision across diverse industries, empowering businesses for smoother operations and informed decision-making.</p>
+  <p>This is the link to the app I made: <a href="https://www.appsheet.com/start/ca19f70b-c9b9-44a6-ae54-179b832d7234?platform=desktop#viewStack[0][identifier][Type]=Control&viewStack[0][identifier][Name]=Inventory&appName=Stocktrackpro-16431431" target="_blank">Stocktrack Pro App</a></p>
+</details>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
 
