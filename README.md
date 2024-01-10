@@ -47,7 +47,7 @@
     <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">  
 </div>
-<h2> Skills &amp; Languages</h2>
+<h2> Skills &amp; Languages:</h2>
 <details>
     <summary>Show skills and languages</summary>
   <div align="left">
@@ -77,7 +77,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-## 📊 GithubStats
+## 📊 GithubStats:
 <details>
   <summary>Show GitHub Stats</summary>
   <div align="center">
@@ -94,6 +94,19 @@
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
+ <h2>My Projects:</h2>
+  <details>
+  <summary>Stocktrack Pro</summary>
+  <p>Stocktrack Pro is an inventory management app that I developed. An efficient inventory management app streamlines stock control, tracking, and organization effortlessly. Simplifying operations, it optimizes inventory levels, enhances accuracy, and boosts productivity. With intuitive interfaces and real-time updates, it ensures seamless inventory supervision across diverse industries, empowering businesses for smoother operations and informed decision-making.</p>
+  <p>This is the link to the app I made: <a href="https://www.appsheet.com/start/ca19f70b-c9b9-44a6-ae54-179b832d7234?platform=desktop#viewStack[0][identifier][Type]=Control&viewStack[0][identifier][Name]=Inventory&appName=Stocktrackpro-16431431" target="_blank">Stocktrack Pro App</a></p>
+</details>
+
+
+
+</div>
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 <div align="left">
     
   <h2>My Contributions:</h2>
@@ -102,18 +115,6 @@
   
   <br/><br/><br/>
 </div>
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-<h2>These are the projects made by me:</h2>
-
-<details>
-  <summary>Stocktrack Pro</summary>
-  <p>Stocktrack Pro is an inventory management app that I developed. An efficient inventory management app streamlines stock control, tracking, and organization effortlessly. Simplifying operations, it optimizes inventory levels, enhances accuracy, and boosts productivity. With intuitive interfaces and real-time updates, it ensures seamless inventory supervision across diverse industries, empowering businesses for smoother operations and informed decision-making.</p>
-  <p>This is the link to the app I made: <a href="https://www.appsheet.com/start/ca19f70b-c9b9-44a6-ae54-179b832d7234?platform=desktop#viewStack[0][identifier][Type]=Control&viewStack[0][identifier][Name]=Inventory&appName=Stocktrackpro-16431431" target="_blank">Stocktrack Pro App</a></p>
-</details>
-
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
