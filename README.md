@@ -10,7 +10,7 @@
 
 <div align="left">
     <p><font color="blue">Enthusiastic Computer Science Student | Code Lover | Football Enthusiast</font></p>
-    <img align="right" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" height="250" />
+    <img align="right" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" height="250" width=30% />
     <p><font color="blue">👨‍💻 I live in Mumbai,Bharat🇮🇳</font></p>
     <p><font color="blue">🧑🏻‍🎓 Student Ambassador at Let's Upgrade</font></p>
     <p><font color="blue">👨‍💻 First-year B.Tech student at ITM Skills University</font></p>
