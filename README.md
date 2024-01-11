@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+profile;+I'm+Husain+Hakim!" />
 <br>
 <br>
- <img align="center" src="https://media.giphy.com/media/UQA6mbhNOl8sVQQzLI/giphy.gif" height="300" width=100% />
+ <img align="center" src="https://media.giphy.com/media/UQA6mbhNOl8sVQQzLI/giphy.gif" height="400" width=100% />
 
 <h3 align="left">
     <font color="blue">About me:</font>
@@ -61,7 +61,7 @@
     <h4>Languages:</h4>
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="60" height="60" />
-    <img src="https://skillicons.dev/icons?i=cpp,py&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,py&theme=dark" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Scratch.logo.S.png" width="50" height="50">
     <h4>Version Control:</h4>
     <p>
