@@ -3,8 +3,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+profile;+I'm+Husain+Hakim!" />
 <br>
-<br>
- <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWxqNzlwdHlhNG9oZ3RkMGRrZjJjNGwweG5zcG4wZnN6OThhMHV4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JvlJSmxmKSXyE/giphy.gif" height="400" width=60% />
 
 <h3 align="left">
     <font color="blue">About me:</font>
@@ -127,7 +125,6 @@
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
-
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
 
 
