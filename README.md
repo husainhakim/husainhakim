@@ -72,6 +72,11 @@
       <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50" theme="dark"> 
       <img src="https://img.shields.io/badge/wix-0078d7.svg?style=for-the-badge&logo=&logoColor=black" width="50" height="50" theme="light">
     </p>
+     <h4>Tools:</h4>
+    <p>
+          <img src="https://media.licdn.com/dms/image/D5612AQGny7xsSSLQ-A/article-cover_image-shrink_600_2000/0/1699480666080?e=2147483647&v=beta&t=3jmL98hJa2MwOmEPsQZ9t3zAH3CjBLEIL-ugNdJ31tY" width="50" height="50">
+    </p>
+    </p>
   </div>
 </details>
     <div align="center">
@@ -81,8 +86,6 @@
 ## 📊 GithubStats:
 <details>
   <summary>Show GitHub Stats</summary>
-  <div align="center">
-    <h1>GitHub Stats:</h1>
     <div align="left">
       <h2>Most Used Languages:</h2>
       <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=husainhakim&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" /></p>
