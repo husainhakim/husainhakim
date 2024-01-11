@@ -80,14 +80,19 @@
 <details>
   <summary>Show GitHub Stats</summary>
   <div align="center">
-    <h2>GitHub Stats:</h2>
-     <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=husainhakim&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" /></p>
-       <p><img src="https://github-profile-trophy.vercel.app/?username=husainhakim&theme=algolia&margin-w=5&margin-h=5" alt="Github Trophy" /></p>
-    <img src="https://github-readme-stats.vercel.app/api?username=husainhakim&theme=aura&show_icons=true" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=husainhakim&theme=aura" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=husainhakim&theme=aura" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=husainhakim&theme=aura" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=husainhakim&theme=aura&utcOffset=5.3" />
+    <h1>GitHub Stats:</h1>
+    <div align="left">
+      <h2>Most Used Languages:</h2>
+      <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=husainhakim&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" /></p>
+      <h2>My Github Trophies:</h2>
+      <p><img src="https://github-profile-trophy.vercel.app/?username=husainhakim&theme=algolia&margin-w=5&margin-h=5" alt="Github Trophy" /></p>
+      <h2>Other Stats:</h2>
+      <img src="https://github-readme-stats.vercel.app/api?username=husainhakim&theme=aura&show_icons=true" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=husainhakim&theme=aura" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=husainhakim&theme=aura" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=husainhakim&theme=aura" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=husainhakim&theme=aura&utcOffset=5.3" />
+    </div>
   </div>
 </details>
 <div align="center">
