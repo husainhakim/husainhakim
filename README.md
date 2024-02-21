@@ -108,7 +108,7 @@
   <details>
   <summary>Stocktrack Pro</summary>
   <p>Stocktrack Pro is an inventory management app that I developed. An efficient inventory management app streamlines stock control, tracking, and organization effortlessly. Simplifying operations, it optimizes inventory levels, enhances accuracy, and boosts productivity. With intuitive interfaces and real-time updates, it ensures seamless inventory supervision across diverse industries, empowering businesses for smoother operations and informed decision-making.</p>
-  <p>This is the link to the app I made: <a href="https://www.appsheet.com/start/ca19f70b-c9b9-44a6-ae54-179b832d7234?platform=desktop#viewStack[0][identifier][Type]=Control&viewStack[0][identifier][Name]=Inventory&appName=Stocktrackpro-164314318" target="_blank">Stocktrack Pro App</a></p>
+  <p>This is the link to the app I made:<a href="https://www.appsheet.com/start/ca19f70b-c9b9-44a6-ae54-179b832d7234?platform=desktop#viewStack[0][identifier][Type]=Control&viewStack[0][identifier][Name]=Inventory&appName=Stocktrackpro-164314318" target="_blank">Stocktrack Pro App</a></p>
 </details>
 
 
