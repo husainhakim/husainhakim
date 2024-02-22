@@ -5,8 +5,7 @@
 <h1 align="center"
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&pause=1000&color=733FD0&random=false&width=690&height=64&lines=I'm+Husain+Hakim;" alt="Typing SVG" /></a>
 </h1>
-    
-
+  
 <h3 align="left">
     <font color="blue">About me:</font>
 </h3>
