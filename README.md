@@ -11,12 +11,12 @@
 </h3>
 <div align="left">
     <p><font color="blue">Enthusiastic Computer Science Student | Code Lover | Football Enthusiast</font></p>
-    <img align="right" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" height="250" width=30% />
+    <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG13YXN5Z252N3VxdmN3b3pra3dzaWN3cDdzamU5NGExNDBwM2d6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" height="250" width=30% />
     <p><font color="blue">👨‍💻 I live in Mumbai,Bharat🇮🇳</font></p>
     <p><font color="blue">🧑🏻‍🎓 Student Ambassador at Let's Upgrade</font></p>
     <p><font color="blue">👨‍💻 First-year B.Tech student at ITM Skills University</font></p>
     <p><font color="blue">🚀 Coding enthusiast exploring the world of programming</font></p>
-    <p><font color="blue">🌱 Currently diving deep into Python</font></p>
+    <p><font color="blue">🌱 Currently working on Data Structures and Algorithms</font></p>
     <p><font color="blue">⚡ Passionate about Animation and AI</font></p>
 </div>
 
