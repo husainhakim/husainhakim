@@ -8,7 +8,6 @@
 <h3 align="left">
     <font color="blue">About me:</font>
 </h3>
-
 <div align="left">
     <p><font color="blue">Enthusiastic Computer Science Student | Code Lover | Football Enthusiast</font></p>
     <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG13YXN5Z252N3VxdmN3b3pra3dzaWN3cDdzamU5NGExNDBwM2d6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" height="250" width=30% />
