@@ -101,7 +101,7 @@
 </div>
  <h2>My Projects:</h2>
   <details>
-  
+ 
   <summary>Stocktrack Pro</summary>
   <p>Stocktrack Pro is an inventory management app that I developed. An efficient inventory management app streamlines stock control, tracking, and organization effortlessly. Simplifying operations, it optimizes inventory levels, enhances accuracy, and boosts productivity. With intuitive interfaces and real-time updates, it ensures seamless inventory supervision across diverse industries, empowering businesses for smoother operations and informed decision-making.</p>
   
