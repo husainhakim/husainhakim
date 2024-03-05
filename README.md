@@ -18,7 +18,6 @@
     <p><font color="blue">🌱 Currently working on Data Structures and Algorithms</font></p>
     <p><font color="blue">⚡ Passionate about Animation and AI</font></p>
 </div>
-
 <div align="left">
     <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
