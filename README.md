@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=husainhakim.husainhakim" />
  <h1 align="center">
-  
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&pause=1000&color=733FD0&random=false&width=690&height=64&lines=WELCOME+TO+MY+++PROFILE;" alt="Typing SVG" /></a>
 </h1>
 <h1 align="center"
