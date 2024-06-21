@@ -17,6 +17,7 @@
     <p><font color="blue">🚀 Coding enthusiast exploring the world of programming</font></p>
     <p><font color="blue">🌱 Currently working on Data Structures and Algorithms</font></p>
     <p><font color="blue">⚡ Passionate about Animation and AI</font></p>
+    <a href="https://drive.google.com/file/d/1SoLstxnQ6jPPCxYXhBNdArpfW4_EugYA/view">📃My Resume
 </div>
 <div align="left">
     <div align="left">
