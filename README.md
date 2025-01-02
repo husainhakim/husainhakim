@@ -1,64 +1,45 @@
+<h1 align="center">Hi 👋, I'm Husain Hakim</h1>
+<h3 align="center">A passionate programmer focused on Python, data science, and building creative solutions. I enjoy solving challenging problems and exploring ways to visualize and communicate data effectively.</h3>
+<BR><BR>
 
-<div align="center"> 
-<h2 align="center">Leetcode Info<h2>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=husainhakim" alt="husainhakim" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/husain@533" target="blank"><img src="https://img.shields.io/twitter/follow/husain@533?logo=twitter&style=for-the-badge" alt="husain@533" /></a> </p>
 
-  
+- Food-Delivery Project : [Spice-Box](https://github.com/husainhakim/Food-Delivery)
+
+- 🌱 I’m currently learning **DSA,Baas,Cloud,System Design,**
+
+- Financial Education Project : [FinED](https://github.com/husainhakim/Fined)
+
+- Typing Speed Checker Project :[Typing Speed Checker(Not Responsive)](https://github.com/husainhakim/Typing-Speed-Checker)
+
+- My Portfolio [https://husainhakim.github.io/Portfolio/](https://husainhakim.github.io/Portfolio/)
+
+- 📝 I regularly write articles on [https://medium.com/@Hakim_Husain](https://medium.com/@Hakim_Husain)
+
+- 💬 Ask me about **Python, DSA**
+
+- 📫 How to reach me **2023.husainh@isu.ac.in**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-2BHV95Lo_YN_jgbYku0jt6gpDwv1FTt/view?usp=sharing](https://drive.google.com/file/d/1-2BHV95Lo_YN_jgbYku0jt6gpDwv1FTt/view?usp=sharing)
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://leetcode.com/its-Hakim_Husain/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="220" width="220" /></a>
-  <a href="https://leetcode.com/Hakim_Husain/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+<a href="https://twitter.com/husain@533" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="husain@533" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/husain hakim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="husain hakim" height="30" width="40" /></a>
+<a href="https://instagram.com/husayn_hakim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="husayn_hakim" height="30" width="40" /></a>
+<a href="https://medium.com/@hakim_husain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hakim_husain" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/hakim_husain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hakim_husain" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@husain_m_hakim_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@husain_m_hakim_1" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/2023hut1dt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/2023hut1dt/" height="30" width="40" /></a>
 </p>
-<p align="left">
-  
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Hakim_Husain?theme=dark&font=Nunito&ext=heatmap" />  
-</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=husainhakim&show_icons=true&locale=en&layout=compact" alt="husainhakim" /></p>
 
-<br/>
-  <h2 align="left">⚡ Current Stats ⚡</h2>
-<br>
-<div align="left" style="display: flex; justify-content: space-between;">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=husainhakim&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /><br><br>
-  <img width="390" src="https://streak-stats.demolab.com/?user=husainhakim&count_private=true&theme=react&border_radius=10" alt="streak stats"/><br><br>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=husainhakim&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /><br>
-</div>
-<br/>
-<div align="left">
-    <h2>Get in Touch:</h2>
-    <p>
-        <a href="https://www.linkedin.com/in/husain-hakim-63a0a6293/" target="_blank">
-            <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="linkedin logo" />
-        </a>
-        <a href="mailto:husain.m.hakim.533@gmail.com" target="_blank">
-            <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="gmail logo" />
-        </a>
-        <a href="https://twitter.com/Husain533" target="_blank">
-            <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="twitter logo" />
-        </a>
-        <a href="https://www.instagram.com/dissector_of_hopes/" target="_blank">
-            <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="instagram logo" />
-        </a>
-    </p>
-</div>
-<h2>📊 Github Stats:</h2>
-<div align="left">
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=husainhakim&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" /></p>
-    <p><img src="https://github-profile-trophy.vercel.app/?username=husainhakim&theme=algolia&margin-w=5&margin-h=5" alt="Github Trophy" /></p>
-    <h2>Other Stats:</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=husainhakim&theme=aura&show_icons=true" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=husainhakim&theme=aura" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=husainhakim&theme=aura" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=husainhakim&theme=aura" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=husainhakim&theme=aura&utcOffset=5.3" />
-</div>
-<div align="left" >
- <h2>My Projects:</h2>
-  <details>
- 
-  <summary>Stocktrack Pro</summary>
-  <p>Stocktrack Pro is an inventory management app that I developed. An efficient inventory management app streamlines stock control, tracking, and organization effortlessly. Simplifying operations, it optimizes inventory levels, enhances accuracy, and boosts productivity. With intuitive interfaces and real-time updates, it ensures seamless inventory supervision across diverse industries, empowering businesses for smoother operations and informed decision-making.</p>
- 
-  <p>This is the link to the app I made:<a href="https://www.appsheet.com/start/ca19f70b-c9b9-44a6-ae54-179b832d7234?platform=desktop#viewStack[0][identifier][Type]=Control&viewStack[0][identifier][Name]=Inventory&appName=Stocktrackpro-164314318" target="_blank">Stocktrack Pro App</a></p>
-</details>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=husainhakim&show_icons=true&locale=en" alt="husainhakim" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=husainhakim&" alt="husainhakim" /></p>
