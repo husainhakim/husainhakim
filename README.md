@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=husainhakim" alt="husainhakim" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/husain@533" target="blank"><img src="https://img.shields.io/twitter/follow/husain@533?logo=twitter&style=for-the-badge" alt="husain@533" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Husain@533" target="blank"><img src="https://img.shields.io/twitter/follow/husain@533?logo=twitter&style=for-the-badge" alt="husain@533" /></a> </p>
 
 - Food-Delivery Project : [Spice-Box](https://github.com/husainhakim/Food-Delivery)
 
