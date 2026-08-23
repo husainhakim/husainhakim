@@ -1,14 +1,12 @@
 # Husain Hakim
 
-**Never Settling**
-
-Student focused on Cybersecurity, White Hat Hacking, and Networking.
+**Never Settle**
 
 ---
 
 ## About Me
 
-- Currently studying Cybersecurity, with an emphasis on ethical/white hat hacking
+- 4th year student studying Cybersecurity, with an emphasis on ethical/white hat hacking
 - Building a strong foundation in Networking
 - Interested in security tooling, network analysis, and system fundamentals
 - Outside of tech: running, and competitive gaming (BGMI, eFootball)
