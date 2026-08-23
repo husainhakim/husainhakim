@@ -66,3 +66,16 @@ Here's a gist of what I've been building lately, mostly centered around networki
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Hakim_Husain/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/husayn_hakim/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:husain.m.hakim.533@gmail.com)
+
+---
+
+### 🎧 Things getting too serious? 
+
+<p align="center">
+  <a href="https://open.spotify.com/search/Starboy%20The%20Weeknd" target="_blank">
+    <img src="https://raw.githubusercontent.com/husainhakim/husainhakim/main/The%20Weeknd%20-%20Reminder.png" width="500" alt="Reminder - The Weeknd" />
+  </a>
+</p>
+
+---
+
