@@ -38,7 +38,10 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
+## Education
+🎓 B.Tech, Computer Science & Engineering - ITM Skills University · Expected 2027 <br>
 
+---
 ## Currently
 
 - 🔐 Deepening my skills in offensive security and white hat hacking
