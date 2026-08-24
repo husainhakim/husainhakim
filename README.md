@@ -39,7 +39,7 @@
 
 ---
 ## Education
-🎓 B.Tech, Computer Science & Engineering - ITM Skills University · Expected 2027 <br>
+<h4>🎓 B.Tech, Computer Science & Engineering - ITM Skills University · Expected 2027 <br></h4>
 
 ---
 ## Currently
