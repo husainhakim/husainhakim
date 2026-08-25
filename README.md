@@ -15,7 +15,7 @@
 
 ## Portfolio
 
-**Checkout my Portfolio live at** — [husainhakim.vercel.app](https://husainhakim.vercel.app)
+**Checkout my Portfolio live at** — [husainhakim.vercel.app](https://husainhakim.vercel.app/)
 
 ---
 
