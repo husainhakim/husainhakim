@@ -62,6 +62,7 @@
 
 Here's a gist of what I've been building lately, mostly centered around networking and file-level security tooling:
 
+- [**QuickRef**](https://github.com/husainhakim/QuickRef) — A terminal-first command reference built to quickly look up forgotten commands, syntax, practical examples, and related commands without leaving the terminal.
 - [**NetworkDeviceScanner**](https://github.com/husainhakim/NetworkDeviceScanner) — A scanner that discovers and identifies devices connected to a network, built while exploring network reconnaissance concepts.
 - [**FileTypeIdentifier**](https://github.com/husainhakim/FileTypeIdentifier) — A utility that inspects files and identifies their true type, useful for spotting mismatched or disguised file formats. [Live demo →](https://file-type-identifier.vercel.app/)
 
