@@ -69,8 +69,8 @@ Here's a gist of what I've been building lately, mostly centered around networki
 </a>
 </td>
 <td width="50%">
-<a href="https://github.com/husainhakim/NetworkDeviceScanner">
-<img src="https://raw.githubusercontent.com/husainhakim/Repository-Cards/master/NetworkDeviceScanner/network-device-scanner.svg" width="100%">
+<a href="https://github.com/husainhakim/Repository-Checker">
+<img src="https://raw.githubusercontent.com/husainhakim/Repository-Cards/master/RepoChecker/repochecker.svg" width="100%">
 </a>
 </td>
 </tr>
