@@ -69,7 +69,7 @@ Here's a gist of what I've been building lately, mostly centered around networki
 </a>
 </td>
 <td width="50%">
-<a href="https://github.com/husainhakim/Repository-Checker">
+<a href="https://github.com/husainhakim/RepoChecker">
 <img src="https://raw.githubusercontent.com/husainhakim/RepositoryCards/master/Repochecker/repochecker.svg" width="100%">
 </a>
 </td>
