@@ -65,24 +65,24 @@ Here's a gist of what I've been building lately, mostly centered around networki
 <tr>
 <td width="50%">
 <a href="https://github.com/husainhakim/QuickRef">
-<img src="https://raw.githubusercontent.com/husainhakim/Repository-Cards/master/QuickRef/quickref.svg" width="100%">
+<img src="https://raw.githubusercontent.com/husainhakim/RepositoryCards/master/QuickRef/quickref.svg" width="100%">
 </a>
 </td>
 <td width="50%">
 <a href="https://github.com/husainhakim/Repository-Checker">
-<img src="https://raw.githubusercontent.com/husainhakim/Repository-Cards/master/Repochecker/repochecker.svg" width="100%">
+<img src="https://raw.githubusercontent.com/husainhakim/RepositoryCards/master/Repochecker/repochecker.svg" width="100%">
 </a>
 </td>
 </tr>
 <tr>
 <td width="50%">
 <a href="https://github.com/husainhakim/FileTypeIdentifier">
-<img src="https://raw.githubusercontent.com/husainhakim/Repository-Cards/master/FileSignIdentifier/file-signature-identifier.svg" width="100%">
+<img src="https://raw.githubusercontent.com/husainhakim/RepositoryCards/master/FileSignIdentifier/file-signature-identifier.svg" width="100%">
 </a>
 </td>
 <td width="50%">
 <a href="https://github.com/husainhakim/NetworkDeviceScanner">
-<img src="https://raw.githubusercontent.com/husainhakim/Repository-Cards/master/NetworkDeviceScanner/network-device-scanner.svg" width="100%">
+<img src="https://raw.githubusercontent.com/husainhakim/RepositoryCards/master/NetworkDeviceScanner/network-device-scanner.svg" width="100%">
 </a>
 </td>
 </tr>
