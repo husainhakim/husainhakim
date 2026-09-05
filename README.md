@@ -26,7 +26,10 @@
 - Developed 150+ APIs as part of backend development work
 
 ---
+## Interests
+<img src="https://raw.githubusercontent.com/husainhakim/husainhakim/main/cyber-wordcloud.svg" width="100%">
 
+---
 ## Skills & Tech Stack
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=flat-square&logo=hackthebox&logoColor=9FEF00)
@@ -109,4 +112,3 @@ Here's a gist of what I've been building lately, mostly centered around networki
 </p>
 
 ---
-
