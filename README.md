@@ -10,6 +10,7 @@
     alt="Cybersecurity word cloud"
   />
 </p>
+
 ---
 
 ## About Me
