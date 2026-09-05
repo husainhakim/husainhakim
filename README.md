@@ -1,5 +1,15 @@
-<img src="https://raw.githubusercontent.com/husainhakim/husainhakim/main/cyber-wordcloud.svg" width="100%">
-
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/husainhakim/husainhakim/main/cyber-wordcloud-light.svg#gh-light-mode-only"
+    width="100%"
+    alt="Cybersecurity word cloud"
+  />
+  <img
+    src="https://raw.githubusercontent.com/husainhakim/husainhakim/main/cyber-wordcloud-dark.svg#gh-dark-mode-only"
+    width="100%"
+    alt="Cybersecurity word cloud"
+  />
+</p>
 ---
 
 ## About Me
