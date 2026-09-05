@@ -1,6 +1,4 @@
-# Husain Hakim
-
-**Never Settle**
+<img src="https://raw.githubusercontent.com/husainhakim/husainhakim/main/cyber-wordcloud.svg" width="100%">
 
 ---
 
@@ -24,10 +22,6 @@
 
 **Backend Developer Intern** — [LetsUpgrade Labs](https://github.com/LetsUpgrade-Labs) · 10 months
 - Developed 150+ APIs as part of backend development work
-
----
-## Interests
-<img src="https://raw.githubusercontent.com/husainhakim/husainhakim/main/cyber-wordcloud.svg" width="100%">
 
 ---
 ## Skills & Tech Stack
