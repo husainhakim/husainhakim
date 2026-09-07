@@ -15,40 +15,49 @@
 
 ## About Me
 
-- 4th year student studying Cybersecurity, with an emphasis on ethical/white hat hacking
-- Building a strong foundation in Networking
-- Interested in security tooling, network analysis, and system fundamentals
-- Outside of tech: running, and competitive gaming (BGMI, eFootball)
-
+- 4th year B.Tech CSE student focused on **offensive security, networking, and security tooling**
+- Building hands-on experience with **Linux, network analysis, vulnerability assessment, and security fundamentals**
+- Background in **backend development**, with experience building APIs using Node.js, Express.js, and MongoDB
+- Outside of tech: running and competitive gaming (BGMI, eFootball)
 ---
 
 ## Portfolio
 
-**Checkout my Portfolio live at** — [husainhakim.vercel.app](https://husainhakim.vercel.app/)   
-(Mobile view to be added soon)
+**Check out my Portfolio live at** — [husainhakim.vercel.app](https://husainhakim.vercel.app/)  
 
 ---
 
 ## Experience
 
 **Backend Developer Intern** — [LetsUpgrade Labs](https://github.com/LetsUpgrade-Labs) · 10 months
-- Developed 150+ APIs as part of backend development work
-
+- Developed 150+ APIs using **Node.js, Express.js, and MongoDB**
+- Participated in client meetings, gaining exposure to **requirements gathering, technical discussions, and project communication**
 ---
 ## Skills & Tech Stack
+
+**🔐 Security & Networking**
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=flat-square&logo=hackthebox&logoColor=9FEF00)
 ![Networking](https://img.shields.io/badge/Networking-4A90D9?style=flat-square&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+
+**💻 Programming**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**⚙️ Backend Development**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**🛠️ Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
@@ -59,15 +68,14 @@
 ---
 ## Currently
 
-- 🔐 Deepening my skills in offensive security and white hat hacking
-- 🌐 Strengthening my networking fundamentals
-- 🧩 Solving problems on [LeetCode](https://leetcode.com/u/Hakim_Husain/) to sharpen my DSA
-- 🛠️ Applying backend development experience to build practical security tools
-
+- 🔐 Deepening my skills in **offensive security and penetration testing**
+- 🌐 Strengthening my **networking and system fundamentals**
+- 🧩 Solving problems on [LeetCode](https://leetcode.com/u/Hakim_Husain/) to sharpen my DSA & Problem Solving
+- 🛠️ Building practical **security and network-analysis tools**
 ---
 
 ## Recent Work
-Here's a gist of what I've been building lately, mostly centered around networking and file-level security tooling:
+Here’s a snapshot of what I’ve been building recently, with a focus on networking, developer tooling, and security-oriented utilities:
 
 <table>
 <tr>
