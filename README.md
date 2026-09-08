@@ -140,7 +140,7 @@ Here’s a snapshot of what I’ve been building recently, with a focus on netwo
 
 <p align="center">
   <a href="https://open.spotify.com/search/Starboy%20The%20Weeknd" target="_blank">
-    <img src="https://raw.githubusercontent.com/husainhakim/husainhakim/main/The%20Weeknd%20-%20Reminder.png" width="650" alt="Reminder - The Weeknd" />
+    <img src="https://raw.githubusercontent.com/husainhakim/husainhakim/main/The%20Weeknd%20-%20Reminder.png" width="90%" alt="Reminder - The Weeknd" />
   </a>
 </p>
 
