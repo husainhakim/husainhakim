@@ -113,6 +113,15 @@ Here’s a snapshot of what I’ve been building recently, with a focus on netwo
 </a>
 </td>
 </tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/husainhakim/IntrusionDetectionSystem">
+<img src="https://raw.githubusercontent.com/husainhakim/RepositoryCards/master/IntrusionDetection/ids-honeypot.svg" width="100%">
+</a>
+</td>
+<td width="50%">
+</td>
+</tr>
 </table>
 
 ---
