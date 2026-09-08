@@ -13,7 +13,7 @@
 
 ---
 
-## About Me
+### About Me
 
 - 4th-year CS undergrad intrigued by how systems behave under attack, and how those attacks can be detected.
 - Drawn to the space between offense and defense—breaking systems to understand their failure points, then building detection tools to catch what broke.
@@ -22,7 +22,7 @@
   
 ---
 
-## Recent Work
+### Recent Work
 
 A snapshot of what I’ve been building recently, focused on low-level binary analysis, network telemetry, and security automation: 
 
@@ -64,7 +64,7 @@ A snapshot of what I’ve been building recently, focused on low-level binary an
 
 ---
 
-## Experience
+### Experience
 
 **Backend Developer Intern** — [LetsUpgrade Labs](https://github.com/LetsUpgrade-Labs) · 10 months
 - Developed 150+ APIs using **Node.js, Express.js, and MongoDB**.
@@ -72,13 +72,13 @@ A snapshot of what I’ve been building recently, focused on low-level binary an
 
 ---
 
-## Education
+### Education
 
 - **B.Tech, Computer Science & Engineering** — ITM Skills University *(Expected 2027)*
 
 ---
 
-## Skills & Tech Stack
+### Skills & Tech Stack
 
 **🔐 Security & Networking**
 
@@ -119,7 +119,7 @@ A snapshot of what I’ve been building recently, focused on low-level binary an
 
 ---
 
-## Connect
+### Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/husainhakim)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/husainhakim/)
