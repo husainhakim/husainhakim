@@ -33,7 +33,14 @@
 - Developed 150+ APIs using **Node.js, Express.js, and MongoDB**
 - Participated in client meetings, gaining exposure to **requirements gathering, technical discussions, and project communication**
 ---
-# Skills & Tech Stack
+## Currently
+
+- 🔐 Deepening my skills in **offensive security and penetration testing**
+- 🌐 Strengthening my **networking and system fundamentals**
+- 🧩 Solving problems on [LeetCode](https://leetcode.com/u/Hakim_Husain/) to sharpen my DSA & Problem Solving
+- 🛠️ Building practical **security and network-analysis tools**
+---
+## Skills & Tech Stack
 
 **🔐 Security & Networking**
 
@@ -76,13 +83,6 @@
 ## Education
 <h4>🎓 B.Tech, Computer Science & Engineering - ITM Skills University · Expected 2027 <br></h4>
 
----
-## Currently
-
-- 🔐 Deepening my skills in **offensive security and penetration testing**
-- 🌐 Strengthening my **networking and system fundamentals**
-- 🧩 Solving problems on [LeetCode](https://leetcode.com/u/Hakim_Husain/) to sharpen my DSA & Problem Solving
-- 🛠️ Building practical **security and network-analysis tools**
 ---
 
 ## Recent Work
