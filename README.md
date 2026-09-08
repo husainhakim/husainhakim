@@ -15,29 +15,20 @@
 
 ## About Me
 
-- 4th year B.Tech CSE student focused on **offensive security, networking, and security tooling**
-- Building hands-on experience with **Linux, network analysis, vulnerability assessment, and security fundamentals**
-- Background in **backend development**, with experience building APIs using Node.js, Express.js, and MongoDB
-- Outside of tech: running and competitive gaming (BGMI, eFootball)
-- **Check out my Portfolio live at** — [husainhakim.vercel.app](https://husainhakim.vercel.app/)  
+- 4th year B.Tech CSE student focused on **offensive security, binary forensics, and network tooling**.
+- Building hands-on security utilities to analyze **in-memory file signatures, Layer 2/3 traffic, and intrusion detection**.
+- Background in **backend engineering**, having built and shipped production APIs using Node.js, Express.js, and MongoDB.
+- Actively solving algorithmic and systems problems on [LeetCode](https://leetcode.com/u/Hakim_Husain/).
+- Outside of tech: running and competitive gaming (BGMI, eFootball).
+- **Portfolio:** [husainhakim.vercel.app](https://husainhakim.vercel.app/)
+
 ---
 
 ## Recent Work
-Here’s a snapshot of what I’ve been building recently, with a focus on networking, developer tooling, and security-oriented utilities:
+
+A snapshot of what I’ve been building recently, focused on low-level binary analysis, network telemetry, and security automation:
 
 <table>
-<tr>
-<td width="50%">
-<a href="https://github.com/husainhakim/IntrusionDetectionSystem">
-<img src="https://raw.githubusercontent.com/husainhakim/RepositoryCards/master/IntrusionDetection/honeypot-ids-lab.svg" width="100%">
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/husainhakim/RepoChecker">
-<img src="https://raw.githubusercontent.com/husainhakim/RepositoryCards/master/Repochecker/repochecker.svg" width="100%">
-</a>
-</td>
-</tr>
 <tr>
 <td width="50%">
 <a href="https://github.com/husainhakim/FileTypeIdentifier">
@@ -47,6 +38,18 @@ Here’s a snapshot of what I’ve been building recently, with a focus on netwo
 <td width="50%">
 <a href="https://github.com/husainhakim/NetworkDeviceScanner">
 <img src="https://raw.githubusercontent.com/husainhakim/RepositoryCards/master/NetworkDeviceScanner/network-device-scanner.svg" width="100%">
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/husainhakim/IntrusionDetectionSystem">
+<img src="https://raw.githubusercontent.com/husainhakim/RepositoryCards/master/IntrusionDetection/honeypot-ids-lab.svg" width="100%">
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/husainhakim/RepoChecker">
+<img src="https://raw.githubusercontent.com/husainhakim/RepositoryCards/master/Repochecker/repochecker.svg" width="100%">
 </a>
 </td>
 </tr>
@@ -66,16 +69,17 @@ Here’s a snapshot of what I’ve been building recently, with a focus on netwo
 ## Experience
 
 **Backend Developer Intern** — [LetsUpgrade Labs](https://github.com/LetsUpgrade-Labs) · 10 months
-- Developed 150+ APIs using **Node.js, Express.js, and MongoDB**
-- Participated in client meetings, gaining exposure to **requirements gathering, technical discussions, and project communication**
----
-## Currently
+- Developed 150+ APIs using **Node.js, Express.js, and MongoDB**.
+- Participated in client discovery, technical scoping, and requirement discussions for production features.
 
-- 🔐 Deepening my skills in **offensive security and penetration testing**
-- 🌐 Strengthening my **networking and system fundamentals**
-- 🧩 Solving problems on [LeetCode](https://leetcode.com/u/Hakim_Husain/) to sharpen my DSA & Problem Solving
-- 🛠️ Building practical **security and network-analysis tools**
 ---
+
+## Education
+
+- **B.Tech, Computer Science & Engineering** — ITM Skills University *(Expected 2027)*
+
+---
+
 ## Skills & Tech Stack
 
 **🔐 Security & Networking**
@@ -116,10 +120,6 @@ Here’s a snapshot of what I’ve been building recently, with a focus on netwo
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
-## Education
-<h4>🎓 B.Tech, Computer Science & Engineering - ITM Skills University · Expected 2027 <br></h4>
-
----
 
 ## Connect
 
@@ -131,12 +131,10 @@ Here’s a snapshot of what I’ve been building recently, with a focus on netwo
 
 ---
 
-### 🎧 Things getting too serious? 
+### 🎧 Things getting too serious?
 
 <p align="center">
   <a href="https://open.spotify.com/search/Starboy%20The%20Weeknd" target="_blank">
     <img src="https://raw.githubusercontent.com/husainhakim/husainhakim/main/The%20Weeknd%20-%20Reminder.png" width="90%" alt="Reminder - The Weeknd" />
   </a>
 </p>
-
----
