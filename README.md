@@ -15,18 +15,16 @@
 
 ## About Me
 
-- 4th year B.Tech CSE student focused on **offensive security, binary forensics, and network tooling**.
-- Building hands-on security utilities to analyze **in-memory file signatures, Layer 2/3 traffic, and intrusion detection**.
-- Background in **backend engineering**, having built and shipped production APIs using Node.js, Express.js, and MongoDB.
-- Actively solving algorithmic and systems problems on [LeetCode](https://leetcode.com/u/Hakim_Husain/).
-- Outside of tech: running and competitive gaming (BGMI, eFootball).
-- 🖥️ **Explore my life as a file system:** [husainhakim.vercel.app](https://husainhakim.vercel.app/)
-
+- 4th-year CS undergrad intrigued by how systems behave under attack, and how those attacks can be detected.
+- Drawn to the space between offense and defense—breaking systems to understand their failure points, then building detection tools to catch what broke.
+- Background in backend development, with 150+ production REST APIs shipped using Node.js, Express, and MongoDB.
+- 📂 **Browse my life as a filesystem:** [husainhakim.vercel.app](https://husainhakim.vercel.app/)
+  
 ---
 
 ## Recent Work
 
-A snapshot of what I’ve been building recently, focused on low-level binary analysis, network telemetry, and security automation:
+A snapshot of what I’ve been building recently, focused on low-level binary analysis, network telemetry, and security automation: 
 
 <table>
 <tr>
