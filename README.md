@@ -29,8 +29,8 @@ A snapshot of what I’ve been building recently, focused on low-level binary an
 <table>
 <tr>
 <td width="50%">
-<a href="https://github.com/husainhakim/FileTypeIdentifier">
-<img src="https://raw.githubusercontent.com/husainhakim/RepositoryCards/master/FileSignIdentifier/file-signature-identifier.svg" width="100%">
+  <a href="https://github.com/husainhakim/IntrusionDetectionSystem">
+<img src="https://raw.githubusercontent.com/husainhakim/RepositoryCards/master/IntrusionDetection/honeypot-ids-lab.svg" width="100%">
 </a>
 </td>
 <td width="50%">
@@ -41,8 +41,8 @@ A snapshot of what I’ve been building recently, focused on low-level binary an
 </tr>
 <tr>
 <td width="50%">
-<a href="https://github.com/husainhakim/IntrusionDetectionSystem">
-<img src="https://raw.githubusercontent.com/husainhakim/RepositoryCards/master/IntrusionDetection/honeypot-ids-lab.svg" width="100%">
+<a href="https://github.com/husainhakim/FileTypeIdentifier">
+<img src="https://raw.githubusercontent.com/husainhakim/RepositoryCards/master/FileSignIdentifier/file-signature-identifier.svg" width="100%">
 </a>
 </td>
 <td width="50%">
