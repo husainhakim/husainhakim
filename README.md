@@ -15,9 +15,10 @@
 
 ### About Me
 
-**Every system has a breaking point. I’m interested in finding it & building what detects it & prevents it.**
-
-**So… hi, I’m Husain, A 4th-year CS student living in the gap between offense and defense: attacker mindset, defender’s toolkit.**  
+- 4th-year CS undergrad intrigued by how systems behave under attack, and how those attacks can be detected.
+- Drawn to the space between offense and defense—breaking systems to understand their failure points, then building detection tools to catch what broke.
+- Background in backend development, building and shipping production APIs used across live platforms.
+- 📂 **Browse my life as a filesystem:** [husainhakim.vercel.app](https://husainhakim.vercel.app/)
 
 ---
 
