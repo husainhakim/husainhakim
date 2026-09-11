@@ -13,7 +13,7 @@
 
 ---
 
-## About Me
+### About Me
 
 **Every system has a breaking point. I’m interested in finding it & building what detects it & prevents it.**
 
@@ -21,7 +21,7 @@
 
 ---
 
-## Recent Work
+### Recent Work
 
 A snapshot of what I’ve been building recently, focused on low-level binary analysis, network telemetry, and security automation: 
 
