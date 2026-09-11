@@ -67,7 +67,7 @@ A snapshot of what I’ve been building recently, focused on low-level binary an
 ### Experience
 
 **Backend Developer Intern** — [LetsUpgrade Labs](https://github.com/LetsUpgrade-Labs) · 10 months
-- Developed 150+ APIs using **Node.js, Express.js, and MongoDB**.
+- Developed 150+ production APIs using Node.js, Express.js, and MongoDB, powering live functionality across [LetsUpgrade.in](https://letsupgrade.in) and [itm.edu](https://itm.edu)
 - Participated in client discovery, technical scoping, and requirement discussions for production features.
 
 ---
