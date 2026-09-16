@@ -15,7 +15,7 @@
 
 ### About Me
 
-- Hi... this is my [corner of the internet](https://husainhakim.vercel.app/), I am a 4th-year CS undergrad intrigued by how systems behave under attack, and how those attacks can be detected.
+- Hi... this is my [corner of the internet](https://portfolio.husainhakim.workers.dev/), I am a 4th-year CS undergrad intrigued by how systems behave under attack, and how those attacks can be detected.
 - Drawn to the space between offense and defense breaking systems to understand their failure points, then building detection tools to catch what broke.
 - Background in backend development, building and shipping production APIs used across live platforms.
 
